@@ -2,4 +2,7 @@ langchain
 langchain-core
 openai
 streamlit
+langchain==0.1.11
+langchain-core==0.1.25
+
 
