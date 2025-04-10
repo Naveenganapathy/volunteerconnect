@@ -1,8 +1,12 @@
-langchain
-langchain-core
-openai
 streamlit
-langchain==0.1.11
+langchain-core
+langchain-community
+ollama
+langchain
+streamlit==1.31.1
 langchain-core==0.1.25
+langchain-community==0.0.18
+ollama==0.1.6
+
 
 
