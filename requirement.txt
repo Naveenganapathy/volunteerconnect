@@ -1,1 +1,5 @@
-langchain_core
+langchain
+langchain-core
+openai
+streamlit
+
